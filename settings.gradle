@@ -1,0 +1,2 @@
+rootProject.name='HighStrikerGame_app_by_command'
+include ':app'
